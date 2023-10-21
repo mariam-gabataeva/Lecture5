@@ -1,0 +1,39 @@
+body{
+
+}
+header{
+	width: 100%;
+	height: 100px;
+	padding: 22px 100px;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav, li{
+	display: inline-block;
+	vertical-align: middle;
+	color: #696969;
+}
+.nav{
+	margin: 0px 192px;
+}
+.book-btn{
+	padding: 13px 50px;
+	background: #FF5403;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+}
+li{
+	color: #696969;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+}
+.list{
+	margin: 0px 50px;
+}
