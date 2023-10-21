@@ -1,6 +1,3 @@
-body{
-
-}
 header{
 	width: 100%;
 	height: 100px;
@@ -82,4 +79,107 @@ main{
 	font-size: 18px;
 	font-style: normal;
 	font-weight: 600;
+}
+.section1{
+	width: 100%;
+	height: 1182px;
+	border: 1px solid green;
+	margin: 282px 0px 0px 0px;
+}
+.visit{
+	color: #041562;
+	text-align: center;
+	font-family: Inter;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 600;
+}
+.best-place{
+	color: #626262;
+	text-align: center;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	margin: 20px 0px 75px 0px;
+}
+
+.island-java{
+	position: relative;
+	top: 0;
+	display: inline-block;
+	margin: 0px 50px 0px 0px;
+
+}
+.java{
+	position: absolute;
+	top: 15px;
+	right: 45px;
+	color: blueviolet;
+	font-family: Inter;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 600;
+}
+.island-bali{
+	position: relative;
+	top: 0;
+	display: inline-block;
+}
+.bali{
+	position: absolute;
+	bottom: 20px;
+	left: 50px;
+	color: yellow;
+	font-family: Inter;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 600;
+	
+}
+.island-section2{
+	margin: 50px 0px 0px 0px;
+}
+.island-sumatra{
+	position: relative;
+	display: inline-block;
+}
+.sumatra{
+	position: absolute;
+	top: 10px;
+	left: 30px;
+	color: green;
+	font-family: Inter;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 600;
+}
+.island-flores{
+	position: relative;
+	display: inline-block;
+	margin: 0px 0px 0px 50px;
+}
+.flores{
+	position: absolute;
+	bottom: 20px;
+    right: 45px;
+	color: pink;
+	font-family: Inter;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 600;
+}
+.more{
+	padding: 13px 50px;
+	background: #FF5403;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	margin: ;
+}
+.discover-more{
+	text-align: center;
+	margin-top: 75px;
 }
