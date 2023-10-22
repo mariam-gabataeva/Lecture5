@@ -83,7 +83,6 @@ main{
 .section1{
 	width: 100%;
 	height: 1182px;
-	border: 1px solid green;
 	margin: 282px 0px 0px 0px;
 }
 .visit{
@@ -182,4 +181,105 @@ main{
 .discover-more{
 	text-align: center;
 	margin-top: 75px;
+}
+.section2{
+	width: 100%;
+	height: 712px;
+	margin-top: 300px;
+}
+.main-hotel-restorans{
+	color: #041562;
+	text-align: center;
+	font-family: Inter;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 600;
+}
+.bests{
+	color: #626262;
+	text-align: center;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	margin: 20px 0px 0px 0px;
+}
+
+.hotel-restorans{
+	width: 1350px;
+	height: 549px;
+	margin-top: 75px;
+}
+
+.hoteel1,.hoteel2, .hoteel3{
+	width: 404px;
+	height: 549px;
+	display: inline-block;
+}
+.hoteel2{
+	margin: 0px 50px;
+}
+.hotel-grand{
+	color: #000;
+	margin: 40px 0px 25px;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+}
+.review{
+	color: #000;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+	display: inline-block;
+
+}
+.name{
+	color: #626262;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+	margin: 10px 0px;
+}
+.from{
+	color: #020202;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+
+}
+.price{
+	color: #DA1212;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+}
+footer{
+	margin-top: 300px 0px 0px 0px;
+	display: flex;
+	width: 1512px;
+	height: 454px;
+	padding: 108px 100px;
+	background: #19224D;
+}
+.footer{
+	width: 1300px;
+	height: 300px;
+/*	background: white;*/
+}
+.footer-list{
+	width: 314px;
+	height: 266px;
+}
+.discover{
+	color: #FFF;
+	text-align: center;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 600;
 }
